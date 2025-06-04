@@ -1,0 +1,4 @@
+{
+  "ids": ["MRN"],
+  "remove": ["Age","Marital Status","State"]
+}
